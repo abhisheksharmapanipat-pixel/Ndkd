@@ -43,6 +43,16 @@ nav a{
 
 /* HERO */
 .hero{
+ .hero{
+  height:100vh;
+  background:url('https://images.unsplash.com/photo-1568605114967-8130f3a36994') center/cover;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+
+  margin-top:80px; 
+ 
   height:100vh;
   background:url('https://images.unsplash.com/photo-1568605114967-8130f3a36994') center/cover;
   display:flex;
